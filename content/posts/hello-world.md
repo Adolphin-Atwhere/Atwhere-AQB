@@ -2,7 +2,7 @@
 title = "Hello World"
 date = "2023-04-03"
 author = "Lorem Ipsum"
-cover = "hello.jpg"
+cover = "cover1.jpg"
 description = "Hello World"
 +++
 
